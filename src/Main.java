@@ -19,6 +19,7 @@ public class Main {
 
         ClasseAstrattaElemento[] Elementi = new ClasseAstrattaElemento[5];
     }
+}
 
 
 
