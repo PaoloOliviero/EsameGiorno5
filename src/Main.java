@@ -18,11 +18,6 @@ public class Main {
         deo.Riproduzione();
 
         ClasseAstrattaElemento[] Elementi = new ClasseAstrattaElemento[5];
-        switch () {
-            case 1
-            case 2
-            case 3
-
 
 
 
