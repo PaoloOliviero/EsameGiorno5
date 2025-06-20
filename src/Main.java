@@ -1,7 +1,9 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
+
+        Scanner scanner = new Scanner(System.in);
 
         Immagine img = new Immagine ("Paesaggio", 5);
         RegistrazioneAudio ra = new RegistrazioneAudio ("Podcast", 4, 3);
@@ -15,5 +17,17 @@ public class Main {
         System.out.println();
         deo.Riproduzione();
 
+        ClasseAstrattaElemento[] Elementi = new ClasseAstrattaElemento[5];
+        switch () {
+            case 1
+            case 2
+            case 3
+        }
+
+
+
+
+
     }
-    }
+
+}
